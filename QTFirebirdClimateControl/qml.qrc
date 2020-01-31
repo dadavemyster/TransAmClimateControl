@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../images/HotColdGradient.jpg</file>
+        <file>../images/modeD.png</file>
+        <file>../images/modeF.png</file>
+        <file>../images/modeFD.png</file>
+        <file>../images/modeV.jpg</file>
+        <file>../images/modeV.png</file>
+        <file>../images/modeVF.png</file>
+        <file>../images/stickTemplate.psd</file>
+    </qresource>
+</RCC>
